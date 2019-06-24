@@ -124,7 +124,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.google.maps:google-maps-services:(insert latest version)'
+    implementation 'com.google.maps:google-maps-services:0.9.3'
     implementation 'org.slf4j:slf4j-simple:1.7.25'
 }
 ```
